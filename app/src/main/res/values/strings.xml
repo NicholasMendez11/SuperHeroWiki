@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">SuperHeros</string>
+    <string name="superhero_name_1">SuperMan</string>
+    <string name="superhero_real_name_1">Clark Kent</string>
+    <string name="superhero_Description_1">Sent to Earth as an infant from the dying planet Krypton, Kal-El was adopted by the loving Kent family and raised in Americas heartland as Clark Kent. Using his immense solar-fueled powers,
+     he became Superman to defend mankind against all manner of threats while championing truth, justice, and the American way</string>
+
+    <string name="superhero_name_2">Batman</string>
+    <string name="superhero_real_name_2">Bruce Wayne</string>
+    <string name="superhero_Description_2">Bruce Wayne, who witnessed the murder of his billionaire parents as a child, swore to avenge their deaths. He trained extensively to achieve mental and physical perfection, mastering martial arts, detective skills, and criminal psychology. Costumed as a bat to prey on the fears of criminals, and utilizing a high-tech arsenal, he became the legendary Batman.
+    </string>
+
+    <string name="superhero_name_3">Black Panther</string>
+    <string name="superhero_real_name_3">T\'Challa</string>
+    <string name="superhero_Description_3">T\'Challa is the Black Panther, king of Wakanda, one of the most technologically advanced nations on Earth. He is among the top intellects and martial artists of the world, a veteran Avenger, and a member of the Illuminati. Using his powers and abilities, he has pledged his fortune, powers, and life to the service of all mankind.
+
+    </string>
+
+    <string name="superhero_name_4">Spider-Man</string>
+    <string name="superhero_real_name_4">Peter Parker</string>
+    <string name="superhero_Description_4">Peter Parker was bitten by a radioactive spider as a teenager, granting him spider-like powers. After the death of his Uncle Ben, Peter learned that "with great power, comes great responsibility." Swearing to always protect the innocent from harm, Peter Parker became Spider-Man.
+    </string>
+
+    <string name="superhero_name_5">Green Lantern</string>
+    <string name="superhero_real_name_5">Hal Jordan</string>
+    <string name="superhero_Description_5">With the ability to overcome great fear and harness the power of will, test-pilot Hal Jordan was chosen to be the Green Lantern of Sector 2814 inheriting the ring of the dying alien Green Lantern, Abin Sur. He later on went to creating his own power ring from his own will power. Through sheer will power and determination, Hal has established an impressive record of heroism across the galaxy with the help of his fellow Green Lanterns as well as his peers in the Justice League.
+    </string>
+
+
+    <string name="superhero_name_6">Thor</string>
+    <string name="superhero_real_name_6">Thor Odinson</string>
+    <string name="superhero_Description_6">Thor Odinson is the All-father of Asgard /God of Thunder, offspring of All-Father Odin &amp; the Phoenix. Combining the powers of both realms makes him an elder-god hybrid and a being of limitless potential. Armed with his enchanted Uru hammer Mjolnir which helps him to channel his godly energies. The mightiest and the most beloved warrior in all of Asgard, a staunch ally for good and one of the most powerful beings in the multiverse/omniverse. Thor is also a founding member of the Avengers.
+    </string>
+
+
+    <string name="superhero_name_7">Thing</string>
+    <string name="superhero_real_name_7">Ben Grimm</string>
+    <string name="superhero_Description_7">
+        Ben Grimm, better known as the Thing, is the original quintessential tough-guy of the Marvel Universe. But, because of his transformation, he\'s also the tragic member of the Fantastic Four. Ben was an ace test pilot until exposure to intense cosmic radiation mutated him into a rock-skinned monster with immense superhuman strength. Bens exterior is much harder than stone which gives him a rather gruff disposition; but deep down, he has a heart of gold.
+
+    </string>
+
+
+    <string name="superhero_name_8">Mr. Fantastic</string>
+    <string name="superhero_real_name_8">Reed Richards</string>
+    <string name="superhero_Description_8">
+        Reed Richards, also known as Mr. Fantastic, is the leader of the Fantastic Four. He can stretch his body to great distances due to his exposure to cosmic rays while in space. He is also considered to be one of the smartest men alive, using his brain to explore alternate dimensions and save the world alongside his family from science-based threats.
+
+    </string>
+
+
+    <string name="superhero_name_9">Invisible Woman</string>
+    <string name="superhero_real_name_9">Susan Storm</string>
+    <string name="superhero_Description_9">
+        Susan Storm is a founding member of the Fantastic Four and later the Future Foundation. She is able to create invisible force fields of any shape she conceives and able to turn herself and anything she\'s in contact with invisible. Sue is the wife of Reed Richards and the mother of their children, Franklin and Valeria.
+
+    </string>
+
+    <string name="superhero_name_10">Human Torch</string>
+    <string name="superhero_real_name_10">Johnny Storm</string>
+    <string name="superhero_Description_10">
+        The second most powerful member of the Fantastic Four and the younger brother of Sue Richards. Due to an accident caused by cosmic radiation in space, he can manipulate fire, turn his entire body into it and fly. While Johnny is known for his impetuous and sometimes reckless nature, he is also a loyal friend and fearless hero.
+
+    </string>
+
+    <string name="superhero_name_11">Captain America</string>
+    <string name="superhero_real_name_11">Steve Rogers</string>
+    <string name="superhero_Description_11">
+     During World War II, Steve Rogers volunteered to receive the experimental Super-Soldier Serum. Enhanced to the pinnacle of human physical potential and armed with an unbreakable shield, he became Captain America. After a failed mission left him encased in ice for decades, he was found and revived by the Avengers, later joining their ranks and eventually becoming the team\'s leader.
+
+    </string>
+
+    <string name="superhero_name_12">Robin</string>
+    <string name="superhero_real_name_12">Dick Grayson</string>
+    <string name="superhero_Description_12">
+        As the first Robin, Dick Grayson was the most famous sidekick in comic book history. As he ventured forth on his own, he formed the Teen Titans and became their leader. When the boy became a man, he became the independent hero known as Nightwing.
+
+    </string>
+
+    <string name="superhero_name_13">Wally West</string>
+    <string name="superhero_real_name_13">Wallace Rudolph</string>
+    <string name="superhero_Description_13">
+        Struck by the same lightning bolt that turned his uncle Barry Allen into the Flash, Wallace Rudolph "Wally" West took the name Kid Flash, became Barry\'s sidekick, and joined the Teen Titans. Eventually, Wally became the Flash to honor his uncle\'s memory, who died saving the Universe. He also became a member of the Justice League. He married a woman named Linda Park and had two kids, Jai and Iris West II. Currently, Wally was pulled from the Speed Force by Barry and is one of two fastest men alive.
+
+    </string>
+
+    <string name="superhero_name_14">Kyle Rayner</string>
+    <string name="superhero_real_name_14">Kyle Rayner</string>
+    <string name="superhero_Description_14">
+        Originally thought to be chosen by chance, it was later revealed that Ganthet chose Kyle Rayner because he had the ability to harness the powers of the emotional spectrum. Once the Torchbearer of the Green Lantern Corps, Kyle graduated to the role Ganthet had intended for him: the White Lantern. After the White Ring is separated into seven rings, Kyle returns to being a Green Lantern Corpsman.
+
+    </string>
+
+    <string name="superhero_name_15">Martian Manhunter</string>
+    <string name="superhero_real_name_15">John Jones</string>
+    <string name="superhero_Description_15">
+        Sole survivor of the Martian people, J\'onn J\'onzz was teleported to Earth decades ago by Dr. Saul Erdel. Since then, he has adopted Earth as his new home, playing many roles over his time with humanity: detective, secret agent, explorer, and even a founding member of the Justice League.
+
+    </string>
+
+    <string name="superhero_name_16">Super Girl</string>
+    <string name="superhero_real_name_16">Kara Zor</string>
+    <string name="superhero_Description_16">Kara Zor El is Superman\'s cousin and last survivor of Krypton\'s Argo City. She has a brash and defiant personality that she developed in response to the destruction of Krypton. Currently, she is operating out of National City alongside the D.E.O.
+
+    </string>
+
+    <string name="superhero_name_17">Iron Man</string>
+    <string name="superhero_real_name_17">Tony Stark</string>
+    <string name="superhero_Description_17">
+        Tony Stark was the arrogant son of wealthy, weapon manufacturer Howard Stark. Tony cared only about himself, but he would have a change of heart after he was kidnapped by terrorists and gravely injured. Pressured to create a weapon of mass destruction, Stark instead created a suit of armor powerful enough for him to escape. Tony used his vast resources and intellect to make the world a better place as The Invincible Iron Man. Stark\'s super hero identity led him to become a founding member of the Avengers.
+
+    </string>
+
+    <string name="superhero_name_18">Hulk</string>
+    <string name="superhero_real_name_18">Bruce Banner</string>
+    <string name="superhero_Description_18">
+        After being bombarded with a massive dose of gamma radiation while saving a young man\'s life during an experimental bomb testing, Dr. Robert Bruce Banner was transformed into the Incredible Hulk: a green behemoth who is the living personification of rage and pure physical strength.
+
+    </string>
+
+    <string name="superhero_name_19">Wolverine</string>
+    <string name="superhero_real_name_19">Logan</string>
+    <string name="superhero_Description_19">
+        A long-lived mutant with the rage of a beast and the soul of a Samurai, James "Logan" Howlett\'s once mysterious past is filled with blood, war, and betrayal. Possessing an accelerated healing factor, keenly enhanced senses, and bone claws in each hand (along with his skeleton) that are coated in adamantium; Wolverine is, without question, the ultimate weapon.
+
+    </string>
+
+    <string name="superhero_name_20">Aquaman</string>
+    <string name="superhero_real_name_20">Arthur Curry</string>
+    <string name="superhero_Description_20">
+        The son of an Atlantean queen and a lighthouse keeper from the town of Amnesty Bay, Arthur Curry would grow up to become the superhero Aquaman, and later take on his birthright as the King of Atlantis. He is a founding member of the Justice League and is among DC Comics\' most recognized heroes.
+
+    </string>
+
+    <string name="about">About:</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_description_1">Eating treats on the terrace</string>
+</resources>
